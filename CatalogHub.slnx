@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CatalogHub.Api/CatalogHub.Api.csproj" />
+    <Project Path="src/CatalogHub.Application/CatalogHub.Application.csproj" />
+    <Project Path="src/CatalogHub.Domain/CatalogHub.Domain.csproj" />
+    <Project Path="src/CatalogHub.Infrastructure/CatalogHub.Infrastructure.csproj" />
+    <Project Path="src/CatalogHub.Worker/CatalogHub.Worker.csproj" />
+  </Folder>
+</Solution>

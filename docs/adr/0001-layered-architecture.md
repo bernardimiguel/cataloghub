@@ -19,7 +19,7 @@ We need business rules that are isolated from technical details and easy to test
 We will split the solution into five projects:
 
 - Domain: entities and business rules. References no project.
-- Application: use cases and interfaces for external services (such as IStorePublisher).
+- Application: use cases and interfaces for external services (such as `IStorePublisher`).
 - Infrastructure: implementations that use technology (database, HTTP, files).
 - Api and Worker: entry points. They wire interfaces to implementations in `Program.cs`.
 

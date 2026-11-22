@@ -6,4 +6,7 @@
     <Project Path="src/CatalogHub.Infrastructure/CatalogHub.Infrastructure.csproj" />
     <Project Path="src/CatalogHub.Worker/CatalogHub.Worker.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CatalogHub.Domain.Tests/CatalogHub.Domain.Tests.csproj" />
+  </Folder>
 </Solution>
